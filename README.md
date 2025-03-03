@@ -1,4 +1,4 @@
-# Totally Insecure Web Application Project (TIWAP)
+# HACKBOX
 
 TIWAP is a web security testing lab made using Flask for budding security enthusiasts to learn about various web 
 vulnerabilities. Inspired by DVWA, the contributors have tried their best to regenerate various web vulnerabilities
