@@ -1,7 +1,7 @@
 # HACKBOX
 
 HACKBOX is a web security testing lab made using Flask for budding security enthusiasts to learn about various web 
-vulnerabilities. Inspired by DVWA, the contributors have tried their best to regenerate various web vulnerabilities
+vulnerabilities. Inspired by DVWA, the Blogger have tried their best to regenerate various web vulnerabilities
 
 The application is solely made for educational purpose and to learn web hacking in a legal environment. 
 
