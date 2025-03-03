@@ -1,14 +1,5 @@
 # Totally Insecure Web Application Project (TIWAP)
 
-![Forks](https://img.shields.io/github/forks/tombstoneghost/TIWAP?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/tombstoneghost/TIWAP?style=for-the-badge)
-![OpenIssues](https://img.shields.io/github/issues/tombstoneghost/TIWAP?style=for-the-badge)
-![ClosedIssues](https://img.shields.io/github/issues-closed/tombstoneghost/TIWAP?style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/count/tombstoneghost/TIWAP?style=for-the-badge)
-![License](https://img.shields.io/github/license/tombstoneghost/TIWAP?style=for-the-badge)
-
-
-
 TIWAP is a web security testing lab made using Flask for budding security enthusiasts to learn about various web 
 vulnerabilities. Inspired by DVWA, the contributors have tried their best to regenerate various web vulnerabilities
 
@@ -31,8 +22,8 @@ To keep the installation and setup easy, we have configured everything for you. 
 
 Once you are done with docker installation, run the following commands. 
 
-> git clone https://github.com/tombstoneghost/TIWAP <br/>
-> cd TIWAP <br/>
+> git clone https://github.com/Art1193/HACKBOX <br/>
+> cd HACKBOX <br/>
 > docker-compose up
 
 <strong>Note: It works only on Linux as of now and windows compatibility is work under progress </strong>
@@ -77,36 +68,6 @@ Currently, we have 22 vulnerabilities in the lab. All listed below:
 Each vulnerability is having 3 difficulty levels, namely Low, Medium and Hard. 
 These levels can be set from the settings page.
 
-
-## Bugs and Issues
-
-If you find any bugs or issues with the project, kindly raise the same on the below link.
-
-https://github.com/tombstoneghost/TIWAP/issues
-
-## Contributors
-
-1. Simardeep Singh - [LinkedIn](https://www.linkedin.com/in/simardeepsingh99/) | [Twitter](https://twitter.com/simardeep99)
-2. Yash Giri -  [LinkedIn](https://www.linkedin.com/in/yashgiri/)
-3. Sakshi Aggarwal - [LinkedIn](https://www.linkedin.com/in/s4ksh1/) | [Twitter](https://twitter.com/s4ksh1)
-4. Xavier Llauca - [GitHub](https://github.com/xllauca)
-
-### Want to be a contributor? 
-
-1. Star this repository
-2. Fork this repository
-3. Clone the forked repository
-4. Navigate to the project directory
-5. Create a new branch with your name
-6. Make changes
-7. Stage your changes and commit
-8. Push your local changes to remote
-9. Create a Pull Request
-10. Congratulations! You did it. 
-
-## License 
-
-This project is under the MIT License - Click [here](https://github.com/tombstoneghost/TIWAP/blob/master/LICENSE) for details.
 
 <strong>Happy Hacking! :)</strong>
 
